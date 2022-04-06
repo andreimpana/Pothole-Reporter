@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/sliderTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Title" />
+
+    <EditText
+        android:id="@+id/titleInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Pothole title here"></EditText>
+
+    <TextView
+        android:id="@+id/sliderDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description" />
+
+    <EditText
+        android:id="@+id/descInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter pothole description here"></EditText>
+
+    <Button
+        android:id="@+id/sliderButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm" />
+</LinearLayout>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">pothole app</string>
+    <string name="title_activity_maps"><font color="#ffffff">MapsActivity</font></string>
+    <string name="MapFragmentName"><font color="#ffffff">Map</font></string>
+    <string name="DashboardFragmentName"><font color="#ffffff">Dashboard</font></string>
+    <string name="InformationFragmenetName"><font color="#ffffff">Information</font></string>
+    <string name="HomeFragmentName">Home</string>
+    <string name="colour">Colour</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="SwitchOn">Dark Mode On</string>
+    <string name="SwitchOff">Dark Mode Off</string>
+    <string name="user_preference">user_preference</string>
+    <string name="DialogMessage">Delete the pin?</string>
+    <string name="DialogTitle">Confirm</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="readMe">
+        <a href="https://github.com/andreimpana/PotholeReadme">ReadMe</a>
+    </string>
+    <string-array name="colours_array">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Azure</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Magenta</item>
+        <item>Rose</item>
+    </string-array>
+
+
+
+</resources>

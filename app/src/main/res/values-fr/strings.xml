@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Application de nid-de-poule</string>
+    <string name="title_activity_maps"><font color="#ffffff">Activité sur les cartes</font></string>
+    <string name="MapFragmentName"><font color="#ffffff">Carte</font></string>
+    <string name="DashboardFragmentName"><font color="#ffffff">Tableau de bord</font></string>
+    <string name="InformationFragmenetName"><font color="#ffffff">Informations</font></string>
+    <string name="HomeFragmentName">Accueil</string>
+    <string name="colour">Couleur</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="SwitchOn">Mode Sombre Activé</string>
+    <string name="SwitchOff">Mode Sombre Désactivé</string>
+    <string name="user_preference">préférence_personnelle</string>
+    <string name="DialogMessage">Supprimer l\'épingle ?</string>
+    <string name="DialogTitle">Confirmer</string>
+    <string name="OK">D\'accord</string>
+    <string name="CANCEL">Annuler</string>
+    <string name="readMe">
+        <a href="https://github.com/andreimpana/PotholeReadme">Lisez-moi</a>
+    </string>
+    <string-array name="colours_array">
+        <item>Rouge</item>
+        <item>Orange</item>
+        <item>Jaune</item>
+        <item>Vert</item>
+        <item>Cyan</item>
+        <item>Azur</item>
+        <item>Bleue</item>
+        <item>Violette</item>
+        <item>Magenta</item>
+        <item>Rose</item>
+    </string-array>
+</resources>

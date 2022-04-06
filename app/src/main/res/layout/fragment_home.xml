@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Title"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Description"
+        android:inputType="text"
+        android:translationY="50dp" />
+
+    <Button
+        android:id="@+id/SaveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:translationX="150dp"
+        android:translationY="100dp"
+        android:onClick="savePothole"/>
+
+    <Button
+        android:id="@+id/Retrieve"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="retrievePothole"
+        android:text="Retrieve"
+        android:translationX="140dp"
+        android:translationY="150dp" />
+
+    <Button
+        android:id="@+id/DBbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DataBase Test Connect"
+        android:translationX="80dp"
+        android:translationY="200dp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/PotholeText"
+        android:layout_width="match_parent"
+        android:layout_height="224dp"
+        android:text="TextView"
+        android:translationY="200dp" />
+
+</FrameLayout>

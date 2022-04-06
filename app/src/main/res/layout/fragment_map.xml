@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frame_layout">
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="4dp"
+        android:background="@drawable/round_button"
+        android:padding="6dp"
+        android:text="+"
+        android:id="@+id/add_Marker_button"/>
+</FrameLayout>
