@@ -8,7 +8,7 @@
 </p>
 
 ## About
-Pothole reporter utilises google maps for accurate pothole reporting and realtime data is displayed via a gooogle Firebase.
+Pothole reporter utilises google maps for accurate pothole reporting and realtime data is displayed via a google Firebase.
 
 ## Installing
 
@@ -16,7 +16,6 @@ Download the latest APK from [Releases](https://github.com/andreimpana/Pothole-R
 
 ## Getting Started with Android Studio
 ## Built Using
-## Authors
 ## Images
 
 <p float="left">
