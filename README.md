@@ -8,7 +8,7 @@
 </p>
 
 ## About
-
+Pothole reporter utilises google maps for accurate pothole reporting and realtime data is displayed via a gooogle Firebase.
 
 ## Installing
 
