@@ -8,10 +8,12 @@
 </p>
 
 ## About
+
+
 ## Installing
-## Getting Started with XCode
-### Prerequisites
-### Setting Up
-### Testing
+
+Download the latest APK from [Releases](https://github.com/andreimpana/Pothole-Reporter/releases).
+
+## Getting Started with Android Studio
 ## Built Using
 ## Authors
