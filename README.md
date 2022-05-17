@@ -6,7 +6,7 @@
 <p align="center"> A pothole reporting app for Android.</p>
     <br> 
 </p>
-
+---
 ## About
 Pothole reporter utilises google maps for accurate pothole reporting and realtime data is displayed via a google Firebase.
 
