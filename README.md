@@ -10,12 +10,16 @@
 ## About
 Pothole reporter utilises google maps for accurate pothole reporting and realtime data is displayed via a google Firebase.
 
-## Installing
+## Installing on your device
 
-Download the latest APK from [Releases](https://github.com/andreimpana/Pothole-Reporter/releases).
+Download the latest APK from [Releases](https://github.com/andreimpana/Pothole-Reporter/releases).<br /><br />
+Upload the APK to your Android device.<br /><br />
+Follow the onscreen instructions to install. <br />
 
 ## Getting Started with Android Studio
-## Built Using
+Clone the repository to directory of your choice<br /><br />
+Launch android studio and import project<br /><br />
+Build and run<br />
 ## Images
 
 <p float="left">
