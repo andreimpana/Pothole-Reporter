@@ -18,11 +18,11 @@ Download the latest APK from [Releases](https://github.com/andreimpana/Pothole-R
 Upload the APK to your Android device.<br /><br />
 Follow the onscreen instructions to install. <br />
 
-## Getting Started with Android Studio
+## Getting Started
 Clone the repository to directory of your choice<br /><br />
 Launch android studio and import project<br /><br />
 Build and run<br />
-## Images
+## What it looks like
 
 <p float="left">
  <img width=250px height=33% src="https://github.com/andreimpana/Pothole-Reporter/blob/main/media/Map.png"></a>
